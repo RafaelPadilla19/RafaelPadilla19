@@ -7,11 +7,32 @@
 
 ## 🚀 ¿Qué estoy construyendo ahora?
 
-🎯 **Devcore** – Plataforma de facturación electrónica y punto de venta, enfocada en PyMEs salvadoreñas y de LATAM.
 
-🔹 Módulos actuales: POS, inventario, órdenes, facturación electrónica (CF, CC, ND, NC, exportación y sujeto excluido).  
-🔹 Modelos gratuitos para negocios pequeños y opciones Lite con licencia o instalación local.  
-🔹 Plugins adicionales: E-commerce, Backoffice, Lealtad, Automatización, ETL y más.
+### 🧾 **Devcore** – Plataforma de facturación electrónica y POS para PyMEs  
+🔹 Módulos actuales: POS, inventario, órdenes, facturación electrónica (CF, CC, ND, NC, exportación y sujeto excluido)  
+🔹 Modelos gratuitos y Lite con licencia o instalación local  
+🔹 Plugins para WordPress, e-commerce, automatización, lealtad, landing pages y más
+
+---
+
+### 🏥 **Mediccore** – Plataforma de gestión médica integral  
+🔹 Expedientes clínicos, citas, historial médico y control de pacientes  
+🔹 Enfocada en clínicas y profesionales de salud  
+🔹 Integración con facturación electrónica y reportes
+
+---
+
+### ✍️ **Editor de Markdown con IA** – Documentación técnica inteligente  
+🔹 Editor enriquecido con capacidades de IA  
+🔹 Generación automática de documentación a partir de código  
+🔹 Ideal para proyectos técnicos y APIs
+
+---
+
+### 🔍 **VecDB Lite** – Motor de búsqueda semántica minimalista  
+🔹 SQLite + FastAPI + embeddings (OpenAI / HuggingFace)  
+🔹 Similitud coseno y búsquedas contextuales  
+🔹 Ideal para apps que necesitan inteligencia sin depender de servidores externos
 
 ---
 
