@@ -51,6 +51,7 @@
 - 🔧 **VecDB Lite** – Mini motor de búsqueda semántica con SQLite + FastAPI + OpenAI.  
 - 📄 **Generador de Facturas en PDF** – App multiplataforma con Python que automatiza creación de facturas personales.  
 - 🧩 **Plugins para WordPress** – Sistemas de facturación integrados con tiendas en línea y landing pages.
+- 🚀 **RMapper** -  Micro mapeador de objetos para .NET: ligero, sin dependencias externas y fácil de extender. Resuelve el problema de copiar datos entre objetos (p. ej., DTOs ⇄ Entidades) sin repetir código ni añadir librerías pesadas
 
 ---
 
