@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Rafael Padilla
 
 ### 💻 Full Stack Developer | 🤖 Apasionado por la automatización | 📊 Emprendedor tecnológico  
-**Fundador de [Innovacors](https://www.linkedin.com/company/innovacors/posts/?feedView=all)** – Transformamos ideas en software poderoso.
+**Fundador de [Innovacors](https://innovacors.com/)** – Transformamos ideas en software poderoso.
 
 ---
 
